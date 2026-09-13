@@ -152,8 +152,8 @@ function App() {
                   <span>↗</span>
                 </a>
 
-                <a href="mailto:mohanadtamer@example.com">
-                  Email
+                <a href="mailto:mohannad.tamer.h@gmail.com">
+                  Email:mohannad.tamer.h@gmail.com
                   <span>↗</span>
                 </a>
               </div>
